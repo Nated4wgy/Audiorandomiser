@@ -3,7 +3,7 @@ Absolutely — here’s a complete **`README.md`** for your project, formatted c
 ---
 
 ````markdown
-# 🎧 Audio Snippet Builder (Overlap + Crossfade)
+# 🎧 Audio Randomiser (Overlap + Crossfade)
 
 A user-friendly **audio texture generator** built with Python and Tkinter.  
 It takes a source WAV/AIFF file and creates a new output by layering randomly selected snippets with smooth crossfades — perfect for generating evolving ambience, textures, or creative glitch-style soundscapes.
@@ -93,7 +93,7 @@ The script performs a simplified *granular / overlap-add* process:
 
 ## 🧩 Code Overview
 
-* **`audio_snippet_convolver_overlap_ui.py`**
+* **`audioconv.py`**
   Main Python file with the full Tkinter GUI, processing logic, and audio builder functions.
 
 * **Key functions:**
@@ -114,9 +114,9 @@ This is equivalent to setting a fixed random seed.
 
 ---
 
-## 📦 Optional Enhancements (coming soon)
+## 📦 coming soon
 
-Planned or easy extensions:
+Planned updates:
 
 * Normalize output to –0.1 dBFS
 * Multi-file source blending
