@@ -42,7 +42,7 @@ pip install numpy soundfile
 1. Run the program:
 
    ```bash
-   python audio_snippet_convolver_overlap_ui.py
+   audioconv.py
    ```
 
 2. In the window:
