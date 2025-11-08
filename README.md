@@ -1,7 +1,5 @@
 
 ---
-
-````markdown
 # 🎧 Audio Randomiser (Overlap + Crossfade)
 
 A user-friendly **audio texture generator** built with Python and Tkinter.  
