@@ -151,7 +151,4 @@ If the output sounds too repetitive:
 
 ```
 
----
 
-Would you like me to generate a **compact “Quick-Start.txt”** version too (for inclusion alongside the script in a zip or build folder)?
-```
